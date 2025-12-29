@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h3>Definición y Características Clave</h3>
+
+        <p>Los animales son seres vivos, organismos eucariotas, multicelulares y heterótrofos que conforman el reino
+            biológico conocido como **Animalia**. Se caracterizan por su capacidad de moverse autónomamente en algún
+            momento de su vida, poseer órganos sensoriales y realizar digestión interna.</p>
+
+        <h3>Características Principales</h3>
+        <ul type="circle">
+            <li>Pluricelulares: Están compuestos por múltiples células organizadas en tejidos.</li>
+            <li>Eucariotas: Sus células tienen un núcleo definido.</li>
+            <li>Heterótrofos: Deben consumir materia orgánica de otros seres vivos para obtener energía.</li>
+            <li>Movilidad: La mayoría tienen la capacidad de moverse de forma autónoma durante al menos una fase de su
+                ciclo de vida.</li>
+            <li>Respuesta a estímulos: Poseen un sistema nervioso que les permite interactuar con su entorno.</li>
+        </ul>
+
+    </section>
+
+    <section>
+        <h3>Clasificación del Reino Animal</h3>
+        <p>La clasificación principal se basa en la presencia o ausencia de la columna
+            vertebral:</p>
+        <!-- vertebradoss -->
+        <h3>Vertebrados</h3>
+        <p>Poseen columna vertebral. Incluyen cinco grupos principales:</p>
+        <ul type="square">
+            <li>Mamíferos: Pelo, glándulas mamarias y crías vivas.</li>
+            <li>Aves: Plumas, pico, y ponen huevos.</li>
+            <li>Reptiles: Escamas, suelen ser de sangre fría y ponen huevos.</li>
+            <li>Anfibios: Metamorfosis, viven en agua y tierra (ej: ranas).</li>
+            <li>Peces: Viven en el agua, respiran por branquias y tienen aletas.</li>
+        </ul>
+
+        <!-- invertebradoss -->
+        <h3>Invertebrados</h3>
+        <p>No tienen columna vertebral. Constituyen la mayoría de las
+            especies:</p>
+        <ul>
+            <li>Insectos</li>
+            <li>Arácnidos</li>
+            <li>Moluscos</li>
+            <li>Crustáceos</li>
+            <li>Gusanos</li>
+            <li>Estrellas de mar</li>
+        </ul>
+
+        <section>
+            <h3>Clasificación Basada en la Dieta (Forma de Alimentarse)</h3>
+
+            <p>Otra forma común de categorizar a los animales se basa en el tipo de alimento que consumen, reflejando su
+                rol en la cadena alimenticia:</p>
+            <h4>Carnívoros:</h4>
+            <ul>
+                <li>Características: Se alimentan principalmente de la carne de otros animales (depredadores).</li>
+                <li>Ejemplos: Leones, tiburones, águilas, lobos, cocodrilos.</li>
+            </ul>
+
+            <h4>Herbívoros:</h4>
+            <ul>
+                <li>Características: Su dieta se compone principal o exclusivamente de plantas, vegetales, frutas o
+                    algas.</li>
+                <li>Ejemplos: Vacas, conejos, elefantes, jirafas, orugas.</li>
+            </ul>
+
+            <h4>Omnívoros:</h4>
+            <ul>
+                <li>Características: Tienen una dieta variada que incluye tanto materia vegetal como carne de otros
+                    animales.</li>
+                <li>Ejemplos: Osos, cerdos, gallinas, monos, y los seres humanos.</li>
+            </ul>
+
+            <h4>Detritívoros / Descomponedores:</h4>
+            <ul>
+                <li>Características: Se alimentan de materia orgánica muerta o en descomposición (detritus), jugando un
+                    papel vital en el reciclaje de nutrientes en los ecosistemas.</li>
+                <li>Ejemplos: Lombrices de tierra, escarabajos peloteros, buitres, cangrejos ermitaños.</li>
+                
+</body>
+</html>
